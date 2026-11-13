@@ -8,3 +8,4 @@ done
 
 # Ensure task_stack_view_layout_style is set to 2 (Stack)
 settings put global task_stack_view_layout_style 2
+

@@ -1,7 +1,7 @@
 # MiuiHome_stack_enabler
 
 **HyperOS Launcher Stack Recents Enabler** (Magisk / KernelSU / APatch Module)  
-**Author**: Kagiyama  
+**Author**: Yakuzokai  
 
 A systemless Magisk / KernelSU module that unlocks the hidden **3D Stacked Recents** layout in Xiaomi HyperOS System Launcher (`MiuiHome`) and enables it as the default recents view.
 
@@ -48,5 +48,6 @@ settings put global task_stack_view_layout_style 0
 ---
 
 ## 👤 Credits & Author
-- **Author**: Kagiyama
+- **Author**: Yakuzokai
 - Developed for Xiaomi HyperOS Community.
+

@@ -3,7 +3,7 @@ SKIPUNZIP=0
 
 ui_print "************************************************"
 ui_print "*      HyperOS Launcher Stack Recents Enabler  *"
-ui_print "*                 Author: Kagiyama             *"
+ui_print "*                 Author: Yakuzokai             *"
 ui_print "************************************************"
 
 ui_print "- Setting up permissions..."
@@ -21,3 +21,4 @@ rm -f /data/dalvik-cache/arm64/product@priv-app@MiuiHome@MiuiHome.apk*
 ui_print "************************************************"
 ui_print "* Installation complete! Enjoy Stack Recents!  *"
 ui_print "************************************************"
+
