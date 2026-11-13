@@ -1,0 +1,6 @@
+id=MiuiHome_stack_enabler
+name=HyperOS Launcher Stack Recents Enabler
+version=v1.0.0
+versionCode=100
+author=Kagiyama
+description=Unlocks the 3D Stacked layout option in 'Arrange items in Recents' and sets it as default for HyperOS System Launcher (MiuiHome).
